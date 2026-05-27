@@ -1,6 +1,3 @@
-<a href="URL_TO_YOUR_LICENSE_FILE">
-  <img src="https://img.shields.io/badge/License-VALEO%20%E2%9C%AA-7A1FA2?style=for-the-badge" alt="Valeo License">
-</a>
 
 
 
